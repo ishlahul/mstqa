@@ -1,0 +1,42 @@
+{
+  "keywordFileContentHash": "FA53A6BAEB733EC252C91A590E16C992",
+  "keywordClasses": [
+    {
+      "name": "app.randomEmail",
+      "keywordMethods": [
+        {
+          "name": "getEmail",
+          "parameters": [
+            {
+              "name": "suffix",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "prefix",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

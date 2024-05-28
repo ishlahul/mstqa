@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "042C84490051EE65AF0FDA791748F736",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.Positive_Add_Product",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

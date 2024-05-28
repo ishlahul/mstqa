@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "B9C0EE70B381901BFC5A2031010C6BC2",
+  "keywordClasses": [
+    {
+      "name": "custom.randomEmail",
+      "keywordMethods": [
+        {
+          "name": "getEmail",
+          "parameters": [
+            {
+              "name": "suffix",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "prefix",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Check if element present in timeout\r\n\t * @param to Katalon test object\r\n\t * @param timeout time to wait for element to show up\r\n\t * @return true if element present, otherwise false\r\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
